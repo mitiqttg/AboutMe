@@ -1,6 +1,6 @@
 # Tien Tran - Resume
 
-![Tien Tran](images/profile.jpg) <!-- Replace with your profile picture URL if hosted -->
+![Tien Tran](avatar.jpg) <!-- Replace with your profile picture URL if hosted -->
 
 **Contact:**  
 📞 (+358) 414836115  
@@ -16,15 +16,16 @@ A customer-oriented Computer Engineering student with **3+ years** of experience
 
 ## Skills
 
-**Software:** Web Development, AI, Cloud  
+**Software:** Web Development, AI, Cloud
+**Hardware:** Peripheral devices, Networking, Server
 **Tools:** Unix, Git, Docker, MS Office, Power Platform  
 **Frameworks:** Node.js, Express, Svelte, Flutter, Spring  
-**Languages:** JavaScript, Java, Python, SQL, Rust, C  
+**Languages:** JavaScript, Java, Python, Dart, Rust, C, SQL, Scala
 
 **Other skills:**  
-- Cloud AI Infrastructure, IT support (Google)  
-- IT and Cloud Fundamentals (IBM)  
-- Project Management, 5G Mobile Networks  
+- IT support, Cloud AI Infrastructure, Project Management Professional Certificate (Google certified)  
+- Information Technology (IT) and Cloud Fundamentals (IBM certified)  
+- 5G Mobile Networks (LearnQuest certified)
 
 ---
 
